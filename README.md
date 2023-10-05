@@ -1,1 +1,2 @@
-# week6
+# week6shell
+Shell Bootcamp Week 6
